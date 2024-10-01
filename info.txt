@@ -1,0 +1,8 @@
+initial
+X: 62px
+Y: 59px
+
+width: 108px
+Height: 65px
+X difference: ?
+Y difference: 46px / 83px / 80px
