@@ -10,11 +10,9 @@ table {
   padding: 10px;
 }
 td {
-  box-sizing: content-box;
-  height: auto;
-  width: auto;
+  box-sizing: border-box;
   padding: 1px 5px;
 }
 table tbody tr:first-of-type td {
-  height: 31px;
+  /* height: 31px; */
 }
